@@ -1,3 +1,3 @@
 # waysgallery-frontend
-dumbways.id - DevOps Batch 4
+dumbways.id - bootcamp DevOps Batch 4
 
