@@ -1,0 +1,9 @@
+version: '3.9'
+services: 
+    backend:
+        container_name: frontend
+        image: docker.io/dimasadriansah4/waysgallery-frontend:v1.7.0
+        ports: 
+            - 3000:3000
+        environment: 
+            - NODE_ENV=production
