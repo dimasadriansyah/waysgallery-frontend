@@ -1,3 +1,3 @@
 # waysgallery-frontend
-bootcamp DevOps Batch 04
+bootcamp DevOps Batch
 
