@@ -1,3 +1,3 @@
 # waysgallery-frontend
-DumbWays.id - Bootcamp DevOps Batch 4 2021
+dumbways.id - Bootcamp DevOps Batch 4 2021
 
