@@ -1,3 +1,3 @@
 # waysgallery-frontend
-bootcamp DevOps Batch 4
+bootcamp DevOps Batch 4 2021
 
